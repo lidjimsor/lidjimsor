@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2400&pause=3600&color=FF10F0&center=true&vCenter=true&width=940&lines=Lidia+Jim%C3%A9nez+Soriano" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2400&pause=3600&color=F5AABE&center=true&vCenter=true&width=940&lines=Lidia+Jim%C3%A9nez+Soriano" alt="Typing animation" />
 </p>
 <p align="center">
   <b>Software Engineer | Data Science | RPA Developer</b>
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2400&pause=3600&color=FF10F0&center=true&vCenter=true&width=940&lines=%F0%9F%A4%96+RPA+%26+Data+%F0%9F%93%8A" alt="RPA & Data" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2400&pause=3600&color=F5AABE&center=true&vCenter=true&width=940&lines=%F0%9F%A4%96+RPA+%26+Data+%F0%9F%93%8A" alt="RPA & Data" />
 </p>
 
 <table>
@@ -51,12 +51,14 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2400&pause=3600&color=FF10F0&center=true&vCenter=true&width=940&lines=Skills" alt="Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2400&pause=3600&color=F5AABE&center=true&vCenter=true&width=940&lines=Skills" alt="Skills" />
 </p>
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
-<td valign="top">
+<td valign="top" align="center">
 
 <table>
 <tr>
@@ -85,7 +87,7 @@
 <td><span style="color:#FF10F0;">▰▰▰▰▰▰▰▰▱▱</span></td>
 </tr>
 <tr>
-<td><img src="https://skillicons.dev/icons?i=c#" width="28"/></td>
+<td><img src="https://skillicons.dev/icons?i=cs" width="28"/></td>
 <td><b>C#</b></td>
 <td><span style="color:#FF10F0;">▰▰▰▰▰▰▰▰▱▱</span></td>
 </tr>
@@ -97,7 +99,8 @@
 </table>
 
 </td>
-<td valign="top">
+<td width="40"></td>
+<td valign="top" align="center">
 
 <table>
 <tr>
@@ -141,11 +144,13 @@
 </tr>
 </table>
 
+</div>
+
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2400&pause=3600&color=FF10F0&center=true&vCenter=true&width=940&lines=Contact" alt="Contact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2400&pause=3600&color=F5AABE&center=true&vCenter=true&width=940&lines=Contact" alt="Contact" />
 </p>
 <p align="center">
   <a href="https://github.com/lidjimsor"><img src="https://skillicons.dev/icons?i=github" alt="Github" width="42" /></a>

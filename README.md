@@ -62,22 +62,22 @@
 <tr>
 <td><img src="https://skillicons.dev/icons?i=python" width="28"/></td>
 <td><b>Python</b></td>
-<td><span style="color:#FF10F0;">▰▰▰▰▰▰▰▰▱▱</span></td>
+<td><span style="color:#FF10F0;">▰▰▰▰▰▰▰▱▱▱</span></td>
 </tr>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=java" width="28"/></td>
 <td><b>Java</b></td>
-<td><span style="color:#FF10F0;">▰▰▰▰▰▰▰▱▱▱</span></td>
+<td><span style="color:#FF10F0;">▰▰▰▰▰▰▰▰▱▱</span></td>
 </tr>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=js" width="28"/></td>
 <td><b>JavaScript</b></td>
-<td><span style="color:#FF10F0;">▰▰▰▰▰▰▱▱▱▱</span></td>
+<td><span style="color:#FF10F0;">▰▰▰▰▰▰▰▱▱▱</span></td>
 </tr>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=dotnet" width="28"/></td>
 <td><b>.NET</b></td>
-<td><span style="color:#FF10F0;">▰▰▰▰▰▰▱▱▱▱</span></td>
+<td><span style="color:#FF10F0;">▰▰▰▰▰▰▰▱▱▱</span></td>
 </tr>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=mysql" width="28"/></td>
@@ -85,9 +85,9 @@
 <td><span style="color:#FF10F0;">▰▰▰▰▰▰▰▰▱▱</span></td>
 </tr>
 <tr>
-<td><img src="https://skillicons.dev/icons?i=git" width="28"/></td>
-<td><b>Git</b></td>
-<td><span style="color:#FF10F0;">▰▰▰▰▰▰▰▱▱▱</span></td>
+<td><img src="https://skillicons.dev/icons?i=c#" width="28"/></td>
+<td><b>C#</b></td>
+<td><span style="color:#FF10F0;">▰▰▰▰▰▰▰▰▱▱</span></td>
 </tr>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=github" width="28"/></td>
@@ -113,7 +113,7 @@
 <tr>
 <td><img src="https://skillicons.dev/icons?i=react" width="28"/></td>
 <td><b>React</b></td>
-<td><span style="color:#FF10F0;">▰▰▰▰▰▰▱▱▱▱</span></td>
+<td><span style="color:#FF10F0;">▰▰▰▰▰▰▰▱▱▱</span></td>
 </tr>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=nodejs" width="28"/></td>
